@@ -1,4 +1,4 @@
-# Android device tree for Redmi water (water)
+# Android device tree for Redmi A2 (water)
 
 ```
 #
